@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "261d3091-0130-49f1-97bc-57176983ec6f"
+      }
+    },
+    "owner": "ismailco96"
   }
 }
